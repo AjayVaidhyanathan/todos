@@ -5,7 +5,7 @@ This repository is for beta testing apk. This repository will not contain source
 
 If you would like to help us , please feel free to use it
 
-apk is available in release section.
+Apk is available in release section.
 
 ---
 ## Initial release V-0.1.0 + 1
