@@ -1,2 +1,16 @@
 # todos
-Final version of app aims to make ultimate task management that can help better control of time and enhance users performance
+This repository is for beta testing apk. This repository will not contain source code of this project , instead will contain apk files to test and enhance performance.
+
+If you would like to help us , please feel free to use it
+
+---
+
+### For further queries
+Email id : mailraina1998@gmail.com
+
+---
+## Initial release V-0.1.0 + 1
+Features
+1. Simple user signup and login page with validator
+2. Managing simple tasks realtime.
+3. CRUD Operations (CREATE READ UPDATE DELETE)
